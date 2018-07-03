@@ -14,7 +14,7 @@ body {
     line-height: 1.6;
     letter-spacing: .1em;
     color: #4c4c4c;
-    background-color: #f2d0e4;
+    background-color: #F6FFFA;
 }
 
 a {
@@ -137,7 +137,7 @@ section h2 {
 
 
 #skills {
-    background-color: #d693ba;
+    background-color: #FFCACA;
 }
 
 #skills .container {
@@ -332,5 +332,5 @@ footer {
     padding: 10px 0;
     text-align: center;
     color: #fff;
-    background-color: #d693ba;
+    background-color: #FFCACA;
 }
